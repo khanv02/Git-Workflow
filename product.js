@@ -1,2 +1,2 @@
 console.log("Product model file")
-console.log("Fixed")
+console.log("Fixed product file")
