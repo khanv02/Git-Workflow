@@ -1,1 +1,1 @@
-console.log("Product file")
+console.log("Product model file")
