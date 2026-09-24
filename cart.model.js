@@ -1,3 +1,3 @@
 console.log(
-    "Carts model"
+    "Carts model C"
 )
